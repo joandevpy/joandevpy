@@ -25,6 +25,8 @@
 🎉 **Fun fact...**
 - I enjoy combining my love for coding with solving real-world problems, and I always look forward to learning something new every day!
 
+![Header](https://your-image-url.com)
+
 ![GitHub followers](https://img.shields.io/github/followers/joandevpy?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/your-profile?style=social)
 
